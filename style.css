@@ -1,0 +1,26 @@
+:root {
+  --bg-color: #DEB841; 
+  --color: #000000;
+  --primary: #0B3FDA; 
+  --secondary: #D90368;
+}
+
+header {
+    background-color: var(--bg-color);
+    color: var(--color);
+}
+
+.menu {
+    display: flex;
+    width: 80vw;
+    justify-content: space-between;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--color);
+}
+
+a {
+    color: var(--primary);
+}
