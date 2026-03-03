@@ -31,17 +31,14 @@ a {
 
 .about_me {
   display: flex;
-  gap: 30px;
 }
 
 .research {
   display: flex;
-  gap: 30px;
 }
 
 .talks {
   display: flex;
-  gap: 30px;
 }
 
 .lisa_pic {
