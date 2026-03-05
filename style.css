@@ -44,14 +44,23 @@ a {
 .lisa_pic {
   height: 15em;
   aspect-ratio: 0.75;
+  display: block;
+  margin-left: auto;
+  margin-right: 1rem; /* small space from screen edge */
 }
 
 .scanning_pic {
   height: 15em;
   aspect-ratio: 0.75;
+  display: block;
+  margin-left: auto;
+  margin-right: 1rem; /* small space from screen edge */
 }
 
 .poster_pic {
   height: 15em;
   aspect-ratio: 0.75;
+  display: block;
+  margin-left: auto;
+  margin-right: 1rem; /* small space from screen edge */
 }
